@@ -1,4 +1,4 @@
-# SMS-classifier-
+# SMS-classifier
 # SMS Spam Classification
 This is a machine learning project for classifying SMS messages as spam or non-spam. The project uses two different vectorization techniques: CountVectorizer and TF-IDF Vectorizer, and compares their performance using K-Nearest Neighbors (KNN) classifier.
 
