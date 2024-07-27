@@ -3,7 +3,7 @@
 This is a machine learning project for classifying SMS messages as spam or non-spam. The project uses two different vectorization techniques: CountVectorizer and TF-IDF Vectorizer, and compares their performance using K-Nearest Neighbors (KNN) classifier.
 
 # Dataset
-The dataset can be obtained from (https://github.com/SB19-02/SMS-classifier-/blob/main/dataset), which contains a collection of SMS with labels indicating whether they are spam or not spam.
+The dataset can be obtained from [here](https://github.com/SB19-02/SMS-classifier-/blob/main/dataset), which contains a collection of SMS with labels indicating whether they are spam or not spam.
 
 # Methodology
 Firstly, the raw text messages were preprocessed. The preprocessing involved removing punctuation, stop words, and converting all text to lowercase. The goal of this step was to transform the raw text messages into a format that can be used for machine learning. The preprocessed text messages were then transformed into numerical feature vectors using two different vectorization techniques: CountVectorizer and TF-IDF Vectorizer. These techniques were used to convert the text data into a format that can be used by machine learning algorithms. K-Nearest Neighbors (KNN) classifier was chosen as the model for the SMS spam classification task. This model was selected because it is a simple and effective algorithm for classification tasks. The models were trained and evaluated using the accuracy metric on both the training and test sets.
