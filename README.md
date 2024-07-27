@@ -16,8 +16,8 @@ The results show that the CountVectorizer with KNN classifier outperforms the TF
 # Conclusions
 Based on the results, it can be concluded that using CountVectorizer with KNN classifier is more reliable and accurate in predicting the outcome of the given dataset. This project can be extended further by exploring other vectorization techniques and machine learning algorithms.
 
-Dependencies
-matplotlib
-scikit-learn
-pandas
-seaborn
+# Dependencies
+1. matplotlib
+2. scikit-learn
+3. pandas
+4.seaborn
